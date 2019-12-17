@@ -2,4 +2,6 @@
 library/.DS_Store
 Laravel/
 I+D+I/
-Wordpress/*
+Wordpress/*/
+Wordpress/.DS_Store
+.DS_Store
